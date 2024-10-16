@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+}
+.tesla{
+background-image: url(./Homepage-Model-3-Desktop-US.png);
+height: 100vh;
+width: 218.5vh;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.icons>svg{
+    height: 30px;
+    width: 30px;
+}
+
+.logo>svg{
+    height: 30px;
+    width: 150px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 50px;
+    height: 90px;
+    color: white;
+}
+
+.navbar>a{
+    text-decoration: none;
+    font-size: 17px;
+    margin: 0px 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+section{
+    display: grid;
+    color: white;
+    justify-content: center;
+    justify-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+section>h1{
+    font-size: 58px;
+    
+}
+section>h3{
+    font-size: 25px;
+    border-bottom: 1px solid white;
+}
+
+section>p{
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+footer{
+    position: absolute;
+    bottom: 25px;
+    left: 470px;
+}
+
+.btn1, .btn2{
+    height: 40px;
+    width: 270px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    margin: 5px;
+    
+}
+
+.btn1{
+    background-color: blue;
+    color: white;
+
+}
+
+
+
+.tesla2{
+    background-image: url(./Homepage-Model-S-Desktop-US.png);
+    height: 100vh;
+    width: 218.5vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec2>h1{
+    font-size: 58px;
+}
+
+.sec2>h3{
+    font-size: 25px;
+}
+
+.sec2>p{
+    font-size: 17px;
+    font-weight: bold;
+    border-bottom: 1px solid white;
+}
+
