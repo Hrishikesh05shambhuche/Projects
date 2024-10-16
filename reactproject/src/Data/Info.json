@@ -1,0 +1,39 @@
+{
+    "Admin":[
+        {
+            "id":"1",
+            "name": "Hrishi",
+            "Password": "Hrishi@12",
+            "email":"hrishu@gmail.com",
+            "Phone":"1534982326"
+        },
+        {
+            "id":"2",
+            "name": "akash",
+            "Password": "akash@12",
+            "email":"akash@gmail.com",
+            "Phone":"1534982326"
+        },
+        {
+            "id":"3",
+            "name": "pratik",
+            "Password": "pratik@12",
+            "email":"pratik@gmail.com",
+            "Phone":"1534982326"
+        },
+        {
+            "id":"4",
+            "name": "vishal",
+            "Password": "vishal@12",
+            "email":"vishal@gmail.com",
+            "Phone":"1534982326"
+        },
+        {
+            "id":"5",
+            "name": "abhi",
+            "Password": "abhi@12",
+            "email":"abhi@gmail.com",
+            "Phone":"1534982326"
+        }
+    ]
+}
